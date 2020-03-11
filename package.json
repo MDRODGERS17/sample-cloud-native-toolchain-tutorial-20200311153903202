@@ -74,7 +74,6 @@
     "gulp-karma": "*",
     "gulp-mocha": "6.0.0",
     "gulp-shell": "^0.7.1",
-    "gulp-util": "^3.0.8",
     "jasmine-core": "^3.4.0",
     "jshint": "latest",
     "jshint-junit-reporter": "^0.2.3",
